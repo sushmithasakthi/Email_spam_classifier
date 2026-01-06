@@ -1,3 +1,5 @@
+# Email_spam_classifier
+
 **Introduction**
 
   
@@ -7,17 +9,20 @@
 **Technologies Used**
 
 
-->Python Pandas  
+->Python 
+->Pandas  
 ->Scikit-learn 
 ->CatBoost 
 ->NLP 
 ->TF-IDF
 
 **Highlights**
+
+
 1.TF-IDF–based text feature extraction
 2.CatBoost classifier for improved performance
 3.Robust CSV and file-path handling
 4.Evaluation using multiple performance metrics
 5.Industry-relevant email spam detection use case
 
-# Email_spam_classifier
+
